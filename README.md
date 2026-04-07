@@ -118,6 +118,27 @@
 
 ---
 
+## 📊 Live Dashboard Preview
+
+<p align="center">
+  <img src="https://your-image-link.png" width="800"/>
+</p>
+---
+
+## ⚡ VISITOR COUNTER + BADGES
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitsindhu5772&label=Profile%20Views&color=blue&style=flat" />
+</p>
+---
+
+## 🧾 Resume Button
+<p align="center">
+<a href="https://your-resume-link.pdf">
+<img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge"/>
+</a>
+</p>
+---
+
 <p align="center">
 🔥 <b>Engineered for Impact | Powered by Data | Driven by Energy ⚡</b>
 </p>
