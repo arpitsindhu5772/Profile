@@ -161,3 +161,125 @@ https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
 <p align="center">
 🔥 <b>Engineered for Impact | Powered by Data | Driven by Energy ⚡</b>
 </p>
+-----------------------------------
+
+<!-- ================== HEADER ================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=ARPIT%20SINDHU&fontSize=42&color=0:00c6ff,100:0072ff&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Renewable%20Energy%20⚡&descAlignY=65"/>
+</p>
+
+<!-- ================== INTRO ================== -->
+
+<h2 align="center">⚡ Turning Data into Energy Intelligence</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=24&center=true&vCenter=true&width=800&lines=Arpit+Sindhu;Renewable+Energy+Data+Analyst;Solar+%26+Wind+Analytics+Expert;SCADA+Data+Specialist;Python+%7C+SQL+%7C+Power+BI"/>
+</p>
+
+---
+
+<!-- ================== QUICK LINKS ================== -->
+
+<p align="center">
+<a href="https://linkedin.com/in/arpitsindhu5772">LinkedIn</a> • 
+<a href="https://github.com/arpitsindhu5772">GitHub</a> • 
+<a href="https://your-resume-link.pdf">Resume</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitsindhu5772&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 🧠 Who Am I?
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Analyst-Solar%20%26%20Wind-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/SCADA-Data%20Expert-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Performance%20Optimization-blue?style=flat-square"/>
+</p>
+
+💡 Specialized in **Solar & Wind plant data analytics**
+📊 Transforming SCADA data into **actionable insights**
+⚡ Improving **plant efficiency & reducing downtime**
+📈 Focused on **performance optimization & fault detection**
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,git"/>
+</p>
+
+<p align="center">
+Python • SQL • Power BI • Excel • Pandas • NumPy • SCADA • Azure
+</p>
+
+---
+
+## 📊 Live Dashboard Preview
+
+<p align="center">
+  <img src="https://your-image-link.png" width="750"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🌬️ Wind Energy Analytics
+
+🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
+
+* Power Curve Analysis
+* SCADA Fault Detection
+* Curtailment Loss Insights
+* Daily & Monthly Reports
+
+---
+
+### ☀️ Solar Plant Analytics
+
+🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
+
+* PR, CUF, Specific Yield
+* Inverter-Level Monitoring
+* Irradiance vs Generation
+* Loss & Fault Analysis
+
+---
+
+## 📊 Impact
+
+* 🚀 Improved plant efficiency using SCADA insights
+* 📉 Reduced downtime via fault detection
+* 📊 Delivered actionable dashboards
+* ⚡ Optimized generation performance
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arpitsindhu5772&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsindhu5772&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsindhu5772&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ Signature
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+🔥 <b>Engineered for Impact | Powered by Data | Driven by Energy ⚡</b>
+</p>
