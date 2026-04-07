@@ -412,3 +412,103 @@ Python • SQL • Power BI • Excel • Pandas • NumPy • SCADA
 <p align="center">
 ⚡ Data → Insights → Energy Optimization
 </p>
+--------------------
+2
+<!-- ================= HEADER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Arpit%20Sindhu&fontSize=42&color=0:00c6ff,100:0072ff&animation=fadeIn"/>
+</p>
+
+<!-- ================= TYPING ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=24&center=true&vCenter=true&width=800&lines=Renewable+Energy+Data+Analyst;Solar+%26+Wind+Analytics;SCADA+Data+Expert;Turning+Data+into+Insights+⚡"/>
+</p>
+
+<!-- ================= QUICK LINKS ================= -->
+
+<p align="center">
+<a href="https://your-resume-link.pdf"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/arpitsindhu5772"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+</p>
+
+---
+
+## ⚡ About Me
+
+* 📊 Data Analyst (Solar & Wind Energy)
+* ⚡ SCADA Analytics & Performance Optimization
+* 📈 Improving plant efficiency & reducing downtime
+* 🧠 Python | SQL | Power BI | Excel
+
+---
+
+## 📊 Live Dashboard (Animated)
+
+<p align="center">
+  <img src="YOUR_GIF_LINK.gif" width="90%"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🌬 Wind Energy Analytics
+
+🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
+
+✔ Power Curve Analysis
+✔ Fault Detection
+✔ SCADA Insights
+
+---
+
+### ☀️ Solar Plant Analytics
+
+🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
+
+✔ PR, CUF Analysis
+✔ Inverter Performance
+✔ Loss Analysis
+
+---
+
+## 📈 Animated Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitsindhu5772&show_icons=true&theme=tokyonight"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=arpitsindhu5772&theme=tokyonight"/>
+</p>
+
+---
+
+## 📊 Contribution Graph (Snake Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,git"/>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitsindhu5772&color=blue"/>
+</p>
+
+---
+
+<p align="center">
+⚡ Data → Insights → Energy Optimization
+</p>
+
