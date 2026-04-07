@@ -310,3 +310,105 @@ https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
 🔥 <b>Engineered for Impact | Powered by Data | Driven by Energy ⚡</b>
 </p>
 
+------
+1
+<!-- ================= HEADER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Arpit%20Sindhu&fontSize=42&color=0:00c6ff,100:0072ff&animation=fadeIn"/>
+</p>
+
+<!-- ================= TYPING ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=24&center=true&vCenter=true&width=800&lines=Renewable+Energy+Data+Analyst;Solar+%26+Wind+Analytics;SCADA+Data+Expert;Turning+Data+into+Insights+⚡"/>
+</p>
+
+<!-- ================= QUICK LINKS ================= -->
+
+<p align="center">
+<a href="https://your-resume-link.pdf"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/arpitsindhu5772"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/arpitsindhu5772"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/></a>
+</p>
+
+<!-- ================= ABOUT ================= -->
+
+## ⚡ About Me
+
+* 📊 Data Analyst (Solar & Wind Energy Domain)
+* ⚡ SCADA Data Analysis & Performance Optimization
+* 📈 Improving plant efficiency & reducing downtime
+* 🧠 Python | SQL | Power BI | Excel
+
+---
+
+<!-- ================= DASHBOARD PREVIEW ================= -->
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="your-image-link.png" width="90%"/>
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Projects
+
+### 🌬 Wind Energy Analytics
+
+🔗 https://github.com/arpitsindhu5772/Wind_Turbine_Analysis_Projects
+
+✔ Power Curve Analysis
+✔ Fault Detection
+✔ SCADA Insights
+
+---
+
+### ☀️ Solar Plant Analytics
+
+🔗 https://github.com/arpitsindhu5772/Solar_Plant_Analysis_Projects
+
+✔ PR, CUF Analysis
+✔ Inverter Performance
+✔ Loss Analysis
+
+---
+
+<!-- ================= FAKE CHART (IMAGE STYLE) ================= -->
+
+## 📈 Analytics View
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitsindhu5772&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,git"/>
+</p>
+
+<p align="center">
+Python • SQL • Power BI • Excel • Pandas • NumPy • SCADA
+</p>
+
+---
+
+<!-- ================= VISITOR ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitsindhu5772&color=blue"/>
+</p>
+
+---
+
+<p align="center">
+⚡ Data → Insights → Energy Optimization
+</p>
