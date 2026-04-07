@@ -429,4 +429,35 @@ Python • SQL • Power BI • Excel • Pandas • NumPy • SCADA
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=22&center=true&vCenter=true&width=800&lines=Turning+sunlight+into+insight+⚡;Data+drives+energy+decisions;Code+the+future+of+renewable+energy;Optimize+plants+with+data+analytics;SCADA+data+%3D+Hidden+energy+intelligence;From+data+to+megawatts+⚡;Clean+energy+needs+smart+analytics"/>
 </p>
+-----------
+4
 
+## ⚡ Signature Line
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+------------
+5
+
+## ⚡ Signature Line
+
+<p align="center">
+<img src="https://programming-quotesapi.vercel.app/api/random" />
+</p>
+------------
+6
+
+## ⚡ Signature Line
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=20&center=true&vCenter=true&width=700&lines=Turning+sunlight+into+insight+⚡;Code+the+future+of+renewable+energy;Data+drives+clean+energy;SCADA+data+is+powerful;Optimize+energy+with+analytics;From+data+to+megawatts+⚡"/>
+</p>
+--------
+7
+
+## ⚡ Signature Line
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=20&center=true&vCenter=true&width=700&lines=Turning+sunlight+into+insight+⚡;Code+the+future+of+renewable+energy;Data+drives+clean+energy;SCADA+data+is+powerful;Optimize+energy+with+analytics;From+data+to+megawatts+⚡"/>
+</p>
